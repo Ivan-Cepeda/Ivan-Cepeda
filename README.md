@@ -6,10 +6,10 @@
 
 ### I'm a Python developer, data analyst, soccer performance analyst. I am currently learning Machine Learning.
 
-### Despite the fact that in my life I have gone through different areas of knowledge, such as a law degree, strategic planning, digital content creation, I have found my true passion in data science.
+### Despite the fact that in my life I have gone through different areas of knowledge, such as a law degree, strategic planning, digital content creation, I have found my true passion in **data science**.
 
 ### I have been martial arts for 31 years, and that has left me with a great sense of discipline, responsibility, honor and loyalty.
 
-## Tecnologies 
+## Technologies 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
