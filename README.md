@@ -4,7 +4,7 @@
 # Ivan Cepeda
 ![Banner](https://media.licdn.com/dms/image/D4E16AQF6WNhNow7Gug/profile-displaybackgroundimage-shrink_350_1400/0/1673435674248?e=1678924800&v=beta&t=PSMEXLn-W9_ZcaRGLiNCbQ_BfBesSwURjrHpJ54p-X4)
 
-### I'm a Python developer, data analyst, soccer performance analyst. I am currently learning Machine Learning.
+### I'm a Python developer, soccer performance analyst. I am currently learning Machine Learning.
 
 ### Despite the fact that in my life I have gone through different areas of knowledge, such as a law degree, strategic planning, digital content creation, I have found my true passion in **data science**.
 
