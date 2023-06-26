@@ -2,7 +2,7 @@
 **Ivan-Cepeda/Ivan-Cepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Ivan Cepeda
-![Banner](https://media.licdn.com/dms/image/D4E16AQF6WNhNow7Gug/profile-displaybackgroundimage-shrink_350_1400/0/1673435674248?e=1678924800&v=beta&t=PSMEXLn-W9_ZcaRGLiNCbQ_BfBesSwURjrHpJ54p-X4)
+![Banner](https://media.licdn.com/dms/image/D4E16AQF6WNhNow7Gug/profile-displaybackgroundimage-shrink_350_1400/0/1673435674248?e=1693440000&v=beta&t=ANIFhIaIEJThSPrjyjzDHn6JTcIVG2Jv8NFflTgdnVc)
 
 ### I'm a Python developer, soccer performance analyst. I am currently learning Machine Learning.
 
