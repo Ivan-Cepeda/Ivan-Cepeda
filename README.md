@@ -4,11 +4,13 @@
 # Ivan Cepeda
 ![Banner](https://media.licdn.com/dms/image/D4E16AQGRrB159RBbnA/profile-displaybackgroundimage-shrink_350_1400/0/1690208358854?e=1695859200&v=beta&t=GbU15Yy9ow99_ST003fBao6w-1O999Nd4qvbbsgChpU)
 
-### I'm a Python developer, soccer performance analyst. I am currently learning Machine Learning.
+### Soy analista de datos y programador en python, principalmente.
 
-### Despite the fact that in my life I have gone through different areas of knowledge, such as a law degree, strategic planning, digital content creation, I have found my true passion in **data science**.
+### actualmente me desempeño como analista de rendimiento de fútbol para un equipo local, En mi vida he experimentado en múltiples campos del saber, desde las leyes, pasando por ventas, creación de contenido digital y ahora Analista, y en todas esas actividades siempre recurría a buscar datos que me ayudaran a mejorar, por lo que terminó convirtiéndose la ciencia de datos en mi verdadera pasión..
 
-### I have been martial arts for 31 years, and that has left me with a great sense of discipline, responsibility, honor and loyalty.
+### Adicionalmente, he practicado artes marciales durante 31 años, y eso me ha dejado con un gran sentido de disciplina, responsabilidad, honor y lealtad.  
+
+### Todos los días me levanto con un objetivo principal en mente, "Ser la mejor versión de mi"
 
 ## Technologies 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
