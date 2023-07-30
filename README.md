@@ -22,7 +22,7 @@ Para acceder a la app princiapl en tiempo real, ingresar en el [link](https://si
 En este proyecto, se me otorgarón 4 datasets, con datos de 3 empresas de cursos masivos y abiertos en línea, conocidos por sus siglas en inglés MOOC. [link](https://github.com/Ivan-Cepeda/Analisis-MOOCs-PI2)
 
 ### *Sistema de Recomendación de películas*
-En este proyecto, la intención era entregar un MVP, producto mínimo víable de un sistema de recomendación de películas, usando Machine Learning, en este caso se trabajaron 2 datasets, y de alí se realizaron una serie de transformaciones esenciales para entrenar un modelo de machine learning, y poder acceder a los datos solicitados. [link](https://github.com/Ivan-Cepeda/PI-Sistema-Recomendacion-ML)
+En este proyecto, la intención era entregar un MVP, producto mínimo víable de un sistema de recomendación de películas, usando Machine Learning, en este caso se trabajaron 2 datasets, y de alí se realizaron una serie de transformaciones esenciales para entrenar un modelo de machine learning, y poder acceder a los datos solicitados. [link](https://github.com/Ivan-Cepeda/Sistema-Recomendacion-PI)
 
 Contacta conmigo a través de [Linkedin](https://www.linkedin.com/in/ivancepeda/)
 
