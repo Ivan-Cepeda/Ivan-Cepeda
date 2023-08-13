@@ -5,9 +5,9 @@
 ![Banner](https://media.licdn.com/dms/image/D4E16AQGRrB159RBbnA/profile-displaybackgroundimage-shrink_350_1400/0/1690208358854?e=1695859200&v=beta&t=GbU15Yy9ow99_ST003fBao6w-1O999Nd4qvbbsgChpU)
 ## Sobre mi
 
-***Soy analista de datos y programador en python***, principalmente, actualmente me desempeño como analista de rendimiento de fútbol para un equipo local, En mi vida he experimentado en múltiples campos del saber, desde las leyes, pasando por ventas, creación de contenido digital y ahora Analista, y en todas esas actividades siempre recurría a buscar datos que me ayudaran a mejorar, por lo que terminó convirtiéndose la ciencia de datos en mi verdadera pasión.
+*Data Analyst* con experiencia en elaboración de proyectos relacionados a las distintas áreas de los datos. Utilizando herramientas como SQL, Power Query, Power Bi, Dax, Tableau, Streamlit, y Python orientado a Data Science. En el área de datos inicié formalmente a través del deporte, como analista del rendimiento en fútbol, dónde desarrollé competencias inherentes a la ciencia de datos: Como modelado y minería de datos, extracción, transformación y carga, creación e interacción de base de datos. Poseo herramientas para la solución de problemas, planificación estratégica y motivación orientada al logro. 
 
-Adicionalmente, he practicado artes marciales durante 31 años, y eso me ha dejado con un gran sentido de disciplina, responsabilidad, honor y lealtad.  
+Adicionalmente, he practicado artes marciales durante 31 años, y eso me ha dejado con un gran sentido de disciplina, responsabilidad, honor y lealtad. 
 
 *Todos los días me levanto con un objetivo principal en mente, "Ser la mejor versión de mi"*
 
