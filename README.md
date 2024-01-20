@@ -2,10 +2,10 @@
 **Ivan-Cepeda/Ivan-Cepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Ivan Cepeda
-![Banner](https://media.licdn.com/dms/image/D4E16AQGRrB159RBbnA/profile-displaybackgroundimage-shrink_350_1400/0/1690208358854?e=1695859200&v=beta&t=GbU15Yy9ow99_ST003fBao6w-1O999Nd4qvbbsgChpU)
+![Banner]([https://media.licdn.com/dms/image/D4E16AQGRrB159RBbnA/profile-displaybackgroundimage-shrink_350_1400/0/1690208358854?e=1695859200&v=beta&t=GbU15Yy9ow99_ST003fBao6w-1O999Nd4qvbbsgChpU](https://media.licdn.com/dms/image/D4E16AQEdrbbn_W7Ogg/profile-displaybackgroundimage-shrink_350_1400/0/1704137894259?e=1710979200&v=beta&t=IKQXZapfhnIF47_u7s_cmUFsSVlQiNMCBRku7qYsIKw))
 ## Sobre mi
 
-*Data Analyst* con experiencia en elaboración de proyectos relacionados a las distintas áreas de los datos. Utilizando herramientas como SQL, Power Query, Power Bi, Dax, Tableau, Streamlit, y Python orientado a Data Science. En el área de datos inicié formalmente a través del deporte, como analista del rendimiento en fútbol, dónde desarrollé competencias inherentes a la ciencia de datos: Como modelado y minería de datos, extracción, transformación y carga, creación e interacción de base de datos. Poseo herramientas para la solución de problemas, planificación estratégica y motivación orientada al logro. 
+Data Analyst y Data Engineer con experiencia en consultoría acerca de soluciones basada en datos a PYMES, utilizando herramientas a medida relacionadas al ecosistema de Big Data. Actualmente trabajo como Instructor en la carrera de Ciencia de Datos. . 
 
 Adicionalmente, he practicado artes marciales durante 31 años, y eso me ha dejado con un gran sentido de disciplina, responsabilidad, honor y lealtad. 
 
