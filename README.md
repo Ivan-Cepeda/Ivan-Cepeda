@@ -2,7 +2,7 @@
 **Ivan-Cepeda/Ivan-Cepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Ivan Cepeda
-![Banner]([[https://media.licdn.com/dms/image/D4E16AQGRrB159RBbnA/profile-displaybackgroundimage-shrink_350_1400/0/1690208358854?e=1695859200&v=beta&t=GbU15Yy9ow99_ST003fBao6w-1O999Nd4qvbbsgChpU](https://media.licdn.com/dms/image/D4E16AQEdrbbn_W7Ogg/profile-displaybackgroundimage-shrink_350_1400/0/1704137894259?e=1710979200&v=beta&t=IKQXZapfhnIF47_u7s_cmUFsSVlQiNMCBRku7qYsIKw)](https://media.licdn.com/dms/image/D4E16AQEdrbbn_W7Ogg/profile-displaybackgroundimage-shrink_350_1400/0/1704137894259?e=1710979200&v=beta&t=IKQXZapfhnIF47_u7s_cmUFsSVlQiNMCBRku7qYsIKw))
+![](https://media.licdn.com/dms/image/D4E16AQEdrbbn_W7Ogg/profile-displaybackgroundimage-shrink_350_1400/0/1704137894259?e=1710979200&v=beta&t=IKQXZapfhnIF47_u7s_cmUFsSVlQiNMCBRku7qYsIKw)
 ## Sobre mi
 
 Data Analyst y Data Engineer con experiencia en consultoría acerca de soluciones basada en datos a PYMES, utilizando herramientas a medida relacionadas al ecosistema de Big Data. Actualmente trabajo como Instructor en la carrera de Ciencia de Datos. . 
